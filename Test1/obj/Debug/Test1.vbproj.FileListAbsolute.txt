@@ -1,0 +1,9 @@
+C:\Users\TOAN\Google Drive\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\TOAN\Google Drive\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\TOAN\Google Drive\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\TOAN\Google Drive\Test1\Test1\bin\Debug\Test1.xml
+C:\Users\TOAN\Google Drive\Test1\Test1\obj\Debug\Test1.Resources.resources
+C:\Users\TOAN\Google Drive\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.Cache
+C:\Users\TOAN\Google Drive\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\TOAN\Google Drive\Test1\Test1\obj\Debug\Test1.xml
+C:\Users\TOAN\Google Drive\Test1\Test1\obj\Debug\Test1.pdb
